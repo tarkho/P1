@@ -4,3 +4,4 @@ for i in range(1, 11):
 print("Сумма чисел от 1 до 10 равна:", total)
 average = total / 10
 print("Среднее значение:", average)
+print("Давлетмурзаев М-Э")
